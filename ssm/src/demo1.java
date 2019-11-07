@@ -6,6 +6,6 @@
  */
 public class demo1 {
     public static void main(String[] args) {
-        System.out.println("idea git demo");
+        System.out.println("idea git demo 组长提交的");
     }
 }
